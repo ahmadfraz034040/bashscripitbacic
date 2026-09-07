@@ -1,8 +1,3 @@
-🐧 Bash Script Basics in Linux
-
-"Linux" (https://img.shields.io/badge/Linux-Bash%20Scripting-blue)
-"Shell" (https://img.shields.io/badge/Shell-Scripting-green)
-"DevOps" (https://img.shields.io/badge/Skill-DevOps-orange)
 
 📌 Project Overview
 
